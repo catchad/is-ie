@@ -1,0 +1,16 @@
+{
+  "name": "@catchad/is-ie",
+  "version": "0.0.1",
+  "homepage": "https://github.com/catchad/is-ie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catchad/is-ie.git"
+  },
+  "description": "Detect if is IE",
+  "main": "index.js",
+  "keywords": [
+    "ie"
+  ],
+  "author": "Joseph Wang",
+  "license": "MIT"
+}
